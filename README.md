@@ -8,8 +8,7 @@ Puppy Paws is a pet store web application where users can view and manage detail
 - [Running the Project](#running-the-project)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Video Walkthrough](#walkthrough)
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
@@ -21,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/puppy-paws.git
+    git clone https://github.com/anemib/petstoreapp.git
     cd petstoreapp
     ```
 
@@ -33,11 +32,6 @@ Before you begin, ensure you have met the following requirements:
     - Install server dependencies:
         ```bash
         yarn install
-        ```
-    - Create a `.env` file in the `server` directory and add the following environment variables:
-        ```
-        PORT=5000
-        MONGODB_URI=your_mongodb_connection_string
         ```
     - Start the server:
         ```bash
@@ -61,7 +55,7 @@ Before you begin, ensure you have met the following requirements:
 ## Running the Project
 
 1. **Start MongoDB:**
-    Ensure your MongoDB instance is running. If you are using a local MongoDB instance, you can start it with:
+    Ensure the MongoDB instance is running.
     ```bash
     mongodb
     ```
@@ -111,7 +105,7 @@ petstoreapp/
     - Click the "Edit Details" button to modify pet information.
 
 3. **Removing a Pet:**
-    - In the "Pet Store" page, click the "Remove" button next to a pet to delete it from the store.
+    - In the "Pet Store" page, click the "Remove" button under the pet card to delete it from the store.
 
 ## Video Walkthrough
 
