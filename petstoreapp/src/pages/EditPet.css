@@ -1,0 +1,31 @@
+.edit-button {
+    margin-right: 1%;
+    background-color: #FFC700;
+    border: transparent;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+    font-size: 15px;
+    margin-top: 1%;
+  }
+  
+  .done-button {
+    margin-right: 1%;
+    background-color: #FFC700;
+    border: transparent;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+    font-size: 15px;
+    margin-top: 1%;
+  }
+  
+  .card-details input {
+    width: 100%;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 25px;
+    border: 1px solid #47c5ff;
+    font-size: 14px;
+  }
+  

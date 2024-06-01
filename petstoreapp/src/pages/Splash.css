@@ -1,0 +1,132 @@
+body {
+    background-color: #89D5FF;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    margin-top: 10%;
+}
+
+.splashmain {
+    font-size: 7vh;
+}
+
+.ButtonMain {
+    margin-right: 2vh;
+    background-color: #FFC700;
+    border: transparent;
+    padding: 1vh;
+    border-radius: 1vh;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+    font-size: 3vh;
+}
+
+.ButtonSub {
+    font-family: Limelight;
+    margin-left: 2vh;
+    background-color: #FFC700;
+    border: transparent;
+    padding: 1vh;
+    border-radius: 1vh;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+    font-size: 3vh;
+}
+
+.signupblock {
+    width: 20%;
+    height: 200%;
+    margin: auto;
+    margin-top: 3%;
+    background-color: #0094FF;
+    border-radius: 25px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+    color: aliceblue;
+}
+
+.signupmain {
+    margin-top: 2%;
+}
+
+.signsplashmain {
+    padding-top: 2vh;
+    padding-bottom: 4vh;
+}
+
+.productBlock {
+    width: 20%;
+    height: 8px;
+    margin: auto;
+    margin-top: px;
+    background-color: #0094FF;
+    border-radius: 2%;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.signupbody {
+    float: left;
+    padding: 0;
+}
+
+
+.signincard {
+    width: 20%;
+    height: 50%;
+    margin: auto;
+    margin-top: 8%;
+    background-color: #0094FF;
+    border-radius: 25px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+    color: aliceblue;
+}
+
+.inputsign {
+    margin-top: -1vh;
+    border-radius: 25px;
+    border: transparent;
+    width: 30vh;
+    height: 3vh;
+    padding: 2vh;
+}
+
+.signupformat {
+    margin: auto;
+    margin-top: 2vh;
+    width: 30vh;
+}
+
+.signupbutton {
+    font-family: Limelight;
+    margin-top: 4vh;
+    background-color: #FFC700;
+    border: transparent;
+    padding: 1vh;
+    border-radius: 1vh;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+    font-size: 3vh;
+}
+
+.textArea {
+    margin-top: -1vh;
+    border-radius: 25px;
+    border: transparent;
+    width: 30vh;
+    height: 10vh;
+    padding: 2vh;
+}
+
+.back-arrow {
+    width: 30px;
+    position: absolute;
+    top: 12%;
+    left: 49%;
+}
+
+.message {
+    color: rgb(255, 225, 0);
+    text-align: center;
+}

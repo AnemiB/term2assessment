@@ -1,0 +1,36 @@
+body{
+  font-family: Limelight;
+}
+
+.App {
+  text-align: center;
+}
+
+.mysidenav {
+  text-align: center;
+  background-color: #89D5FF !important; 
+  font-weight: 500;
+  height: 3700px;
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.mysidenav {
+  text-align: center;
+  background-color: #0094FF !important; 
+  font-weight: 500;
+  height: 3700px;
+}

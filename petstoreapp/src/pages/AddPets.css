@@ -1,0 +1,83 @@
+.card-container {
+  background-color: white;
+  padding: 20px;
+}
+
+.profile-photo-circle {
+  width: 50%;
+}
+
+.card {
+  width: 30%;
+  background-color: #89D5FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5%;
+  margin: 50px auto;
+  margin-top: 3%;
+  height: 14%;
+  padding: 1%;
+}
+
+.card div {
+  text-align: center;
+}
+
+.card h4 {
+  font-weight: bold;
+}
+
+.card p {
+  text-align: center;
+  font-size: 12px; 
+}
+
+.add-photo-button,
+.add-pet-button {
+  background-color: #FFC700;
+  border: none;
+  color: rgb(0, 0, 0); 
+  padding: 8px 16px; 
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  margin-top: 1px;
+  border-radius: 25px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.add-photo-button:hover,
+.add-pet-button:hover {
+  background-color: #fdd74b; 
+  box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.add-photo-button:active,
+.add-pet-button:active {
+  background-color: #fedf70; 
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.pet-form {
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 2px; 
+}
+
+.form-group label {
+  display: block; 
+}
+
+.form-group input {
+  border-radius: 25px;
+  border: none;
+}
+
+.profile-photo-circle {
+  border-radius: 50%;
+  width: 150px; 
+  height: 150px; 
+}
